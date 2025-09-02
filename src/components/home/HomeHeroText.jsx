@@ -2,7 +2,7 @@
 
 const HomeHeroText = () => {
   return (
-    <div>
+    <div className="pl-1 text-5xl font-bold">
       <div>L'étincelle</div>
       <div>quigénère</div>
       <div>la créativité</div>
